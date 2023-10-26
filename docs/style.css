@@ -109,15 +109,15 @@ a:hover{
 }
 
 .Petal1 {
-  background: radial-gradient(circle, #ff5e00, #ffbb00);
+  background: radial-gradient(circle, #ff00dd, #e976c6);
 }
 
 .Petal2 {
-  background: radial-gradient(circle, #ff5e00, #fbd702);
+  background: radial-gradient(circle, #ff00dd, #e976c6);
 }
 
 .Petal3 {
-  background: radial-gradient(circle, #ff5e00, #fbd702);
+  background: radial-gradient(circle, #ff00dd, #e976c6);
 }
 
 /* Rotación de los pétalos */
